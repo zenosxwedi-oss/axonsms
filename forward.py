@@ -85,7 +85,7 @@ async def send_to_group(bot, entry):
         InlineKeyboardButton(text="Methods", url="https://t.me/Axonnumber_bot", icon_custom_emoji_id="5807797645443340724"),
         InlineKeyboardButton(text="Channel", url="https://t.me/+Pzz-0SEu-2s3NmZl", icon_custom_emoji_id="5429571366384842791")
     ]
-    row3 = [InlineKeyboardButton(text="OTP Panel", url="https://t.me/XclusoRPanelBot", icon_custom_emoji_id="5372917041193828849")]
+    row3 = [InlineKeyboardButton(text="OTP Panel", url="https://t.me/Axonnumber_bot", icon_custom_emoji_id="5372917041193828849")]
     
     markup = InlineKeyboardMarkup([row1, row2, row3])
     
