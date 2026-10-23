@@ -82,7 +82,7 @@ async def send_to_group(bot, entry):
         row1 = [InlineKeyboardButton(text=f"🔑 {otp}", callback_data="noop")]
         
     row2 = [
-        InlineKeyboardButton(text="Methods", url="https://youtube.com/@xclusor", icon_custom_emoji_id="5807797645443340724"),
+        InlineKeyboardButton(text="Methods", url="https://t.me/Axonnumber_bot", icon_custom_emoji_id="5807797645443340724"),
         InlineKeyboardButton(text="Channel", url="https://whatsapp.com/channel/0029VbC0kzIEFeXq9XLgHZ3y", icon_custom_emoji_id="5429571366384842791")
     ]
     row3 = [InlineKeyboardButton(text="OTP Panel", url="https://t.me/XclusoRPanelBot", icon_custom_emoji_id="5372917041193828849")]
